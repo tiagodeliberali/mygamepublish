@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "mygamepublish.data.unityweb",
+"asmCodeUrl": "mygamepublish.asm.code.unityweb",
+"asmMemoryUrl": "mygamepublish.asm.memory.unityweb",
+"asmFrameworkUrl": "mygamepublish.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
